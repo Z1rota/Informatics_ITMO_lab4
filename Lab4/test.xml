@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<Schedule>
+    <Tuesday>
+        <Lesson1>
+            <Name>Матанализ</Name>
+            <Time>8:20-9:50</Time>
+            <Type>Практика, дистанционно</Type>
+            <Teacher>Блейхер Оксана Владимировна</Teacher>
+        </Lesson1>
+        <Lesson2>
+            <Name>Линейная Алгебра</Name>
+            <Time>10:00-11:30</Time>
+            <Type>Лекция,очно</Type>
+            <Teacher>Рванова Алла</Teacher>
+            <Place>ауд. 2426 (2426), Кронверкский пр., д.49, лит.А</Place>
+        </Lesson2>
+        <Lesson3>
+            <Name>Линейная Алгебра</Name>
+            <Time>11:40-13:10</Time>
+            <Type>Практика,очно</Type>
+            <Teacher>Рванова Алла</Teacher>
+            <Place>ауд. 2430, Кронверкский пр., д.49, лит.А</Place>
+        </Lesson3>
+        <Lesson4>
+            <Name>Дискретная математика</Name>
+            <Time>17:00-18:30</Time>
+            <Type>Лекция,очно</Type>
+            <Teacher>Поляков Владимир Иванович</Teacher>
+            <Place>Ауд. 2403, Кронверкский пр., д.49, лит.А</Place>
+        </Lesson4>
+        <Lesson5>
+            <Name>Дискретная математика</Name>
+            <Time>18:40-20:10</Time>
+            <Type>Практика,очно</Type>
+            <Teacher>Поляков Владимир Иванович</Teacher>
+            <Place>Ауд. 2403, Кронверкский пр., д.49, лит.А</Place>
+        </Lesson5>
+    </Tuesday>
+    <Friday>
+        <Lesson1>
+            <Name>Плавание</Name>
+            <Time>9:00-10:00</Time>
+            <Type>Практика</Type>
+            <Teacher>Кожанова Екатерина Юрьевна</Teacher>
+            <Place>Ауд. ФОК «Юность», ул. Правды, 11</Place>
+        </Lesson1>
+    </Friday>
+</Schedule>
